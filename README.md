@@ -18,6 +18,10 @@ technology used:
 * HTML5 for book formatting
 * [blog2book](http://blog2ebook.picoappz.com/) to convert the html document to a Kindle book
 
+### To Convert to eBook
+
+`kindlegen -verbose index.html -o EagleEyeDescending.mobi`
+
 ---
 See LICENSE file for details
 
